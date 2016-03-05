@@ -1,2 +1,3 @@
 # oghlinerExample
-Example for oghliner app
+
+A template app bootstrapped with oghliner.
